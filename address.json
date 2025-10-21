@@ -661,5 +661,10 @@
         "entity": "Liquidity Provision Wallet",
         "name": "Liquidity Provision Wallet",
         "logo": ""
+    },
+    "C6TL8quiuFJUy5ucx1ULDR57GjFWtHWTtUQ8zVoAVYRW": {
+        "entity": "$ACKE / SOL Raydium CLMM Pool (Immutable PDA-Owned)",
+        "name": "$ACKE / SOL Raydium CLMM Pool (Immutable PDA-Owned)",
+        "logo": ""
     }
 }
